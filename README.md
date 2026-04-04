@@ -4,8 +4,7 @@
 
 > *Building the future, one commit at a time.*
 
-[![GitHub followers]](https://github.com/17chemictech?tab=followers)
-[![GitHub stars]]
+
 </div>
 
 ---
