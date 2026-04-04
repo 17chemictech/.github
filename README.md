@@ -77,12 +77,8 @@ Building **Web3 infrastructure** powered by blockchain technology, providing dev
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=17chemictech&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1f2937&icon_color=6366f1" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17chemictech&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=6366f1&text_color=1f2937" height="165" />
 
 </div>
 
