@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/17chemictech/17chemictech/main/assets/logo.png" width="120" alt="17chemictech Logo" />
+<img src="https://raw.githubusercontent.com/17chemictech/17chemictech/main/assets/logo.png" width="150" alt="Olivie Logo" style="border-radius: 50%;" />
 
-# 17chemictech
+# 17chemictech · Olivie
 
 ### Web3 Infrastructure · AI Agent · Blockchain Technology
 
-[![Website](https://img.shields.io/badge/Website-llmai.asia-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://llmai.asia)
+**`olivie.base.eth`**
+
+[![Website](https://img.shields.io/badge/Website-llmai.asia-0052FF?style=for-the-badge&logo=base&logoColor=white)](https://llmai.asia)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
@@ -18,9 +20,16 @@
 
 ## 🚀 About
 
+> *"这里是数字避难所。基于 Base 链和 IPFS 构建。资产已解耦，注意力已主权。"*
+
 Building **Web3 infrastructure** powered by blockchain technology, providing developers with convenient, efficient, and secure development tools.
 
 专注于构建基于区块链技术的 **Web3 基础设施**，为开发者提供便捷、高效、安全的开发工具。
+
+- 🔗 **Base Chain** - 基于 Base 链构建
+- 🌐 **IPFS/Arweave** - 去中心化存储
+- 💰 **x402 Enabled** - 支持加密支付
+- 🤖 **AI Agent** - 智能代理通讯
 
 ---
 
