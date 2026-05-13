@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/17chemictech/17chemictech/main/assets/logo.png" width="150" alt="Olivie Logo" style="border-radius: 50%;" />
 
 # 17chemictech · Olivie
 
