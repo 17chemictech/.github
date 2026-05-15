@@ -39,7 +39,7 @@ Building **Web3 infrastructure** powered by blockchain technology, providing dev
 | Project | Description | Status |
 |:--------|:------------|:------:|
 | [**Etheria**](https://github.com/17chemictech/Etheria) | Web3 基础设施 / Web3 Infrastructure Platform | 🔴 Archived |
-| [**eliza-2077**](https://github.com/17chemictech/eliza-2077) | 赛博朋克AI人格 / Cyberpunk AI Soul | 🟢 Active |
+
 | [**expense-ai**](https://github.com/17chemictech/expense-ai) | 智能费用管理 / AI Expense Manager | 🟢 Active |
 | [**ai-assistants-hub**](https://github.com/17chemictech/ai-assistants-hub) | AI助手集合 / AI Assistants Hub | 🟢 Active |
 | [**personal-assistant**](https://github.com/17chemictech/personal-assistant) | 智能个人助手 / Personal Assistant System | 🟢 Active |
