@@ -1,7 +1,11 @@
-## Hi there 
 
-<!--
-**17chemictech/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
+
+<!--<a href="https://ghfind.com/u/17chemictech?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/17chemictech?variant=strip&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/17chemictech?variant=strip&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="420" />
+  </picture>
+</a>**17chemictech/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
